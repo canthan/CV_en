@@ -53,10 +53,10 @@ body{
     background-repeat:no-repeat;
     background-position:
         0 0,
-        0 1089px;
+        0 1095px;
     background-size:
-         825px 1087px,
-         825px 80px;
+         825px 1093px,
+         825px 74px;
     border: 1px solid black;   
     padding:50px;
 }
@@ -68,11 +68,11 @@ main, header{
 
 .footer{
    width:750px;
-   height:70px;
+   height:65px;
    font-size:1.2em;
    padding-top:20px;
     position: absolute;
-    top: 1080px;
+    top: 1085px;
 }
 
 /*-------------------GRID*/
